@@ -1,0 +1,4 @@
+Nuvem Pública - Cotas e Preços
+Aproveitando a pesquisa que você realizou na semana anterior (Aula A4), procure saber, agora, como o fornecedor de nuvem pública que você pesquisou, controla e cobra por cada serviço, incluindo a cota que você adquire, por exemplo: volume de dados por mês, quantidade de horas etc.
+Crie uma tabela com essas informações e envie no link da atividade no MS-Teams.
+ 
